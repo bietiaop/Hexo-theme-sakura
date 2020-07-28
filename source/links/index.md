@@ -8,11 +8,14 @@ comments: false
 photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/links.jpg
 links:
   - group: 小伙伴们
-    desc: 欢迎交换友链 ꉂ(ˊᗜˋ)
+    desc: 欢迎申请友链 ꉂ(ˊᗜˋ)
     items:
-    - url: https://42cloud.cn/
+    - url: https://www.bilibili.com/
       img: https://cdn.jsdelivr.net/gh/xbclub/CDN/wp-content/uploads/2020/01/4311c9ad04554119.png
-      name: 42cloud
-      desc: 这是一个有意思的空间
-   
+      name: B站
+      desc: 哔哩哔哩，干杯！
+	- url: https://www,github.com
+	  img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584463929389&di=c7767b24b33ad3fc6e65337ab20f22b7&imgtype=jpg&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D1969454436%2C2593720224%26fm%3D214%26gp%3D0.jpg	
+	  name: Github
+	  desc: GayHub！
 ---

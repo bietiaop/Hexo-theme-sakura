@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 42cloud and 42team
+title: 小惠的私人博客
 subtitle:
-description: 这是一个有趣的空间
+description: 这是别调P（小惠）的私人博客，啥都有~
 keywords:
-author: 42team
+author: 别调P（小惠）
 language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://42cloud.cn
+url: https://www.bietiaop.top
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
@@ -79,11 +79,13 @@ theme: Sakura
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-    github: git@github.com:xbclub/hexo-back.git
+  repo: https://github.com/bietiaop/bietiaop.github.io
     # github: https://github.com/honjun/honjun.github.io.git
     #coding: https://github.com/xbclub/hexo-back.git
   branch: master
+
+admin:
+  deployCommand: 'hexo-publish.bat'
 
 # backup
 backup:

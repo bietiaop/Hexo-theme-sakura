@@ -1,9 +1,9 @@
 ---
 layout: donate
 title: donate
-date: 2018-12-20 23:13:05
-keywords: 谢谢饲主了喵~
+date: 2020-03-14 13:55:05
+keywords: 捐赠
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/donate.jpg
+photos: https://www.bilibili.com/icon.png
 ---
